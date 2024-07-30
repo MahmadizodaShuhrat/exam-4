@@ -1,0 +1,31 @@
+@media(max-width:500px) {
+    .m6 {
+        font-size: 0px;
+    }
+    .m1 {
+        display: none;
+    }
+    .m0 {
+        display: none;
+    }
+    .m4 {
+        display: none;
+    }
+    .m5 {
+        display: none;
+    }
+    .bos {
+        display: flex;
+        width: 100%;
+        margin: auto;
+        justify-content: space-between;
+    }
+    .meny img {
+        width: 100px;
+        height: 30px;
+    }
+    .m {
+        width: 47%;
+        height: 50px;
+    }
+}
